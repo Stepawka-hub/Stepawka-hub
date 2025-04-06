@@ -27,7 +27,7 @@
 <a href="https://t.me/stepawkalvov" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
   
 <br/>  
 
@@ -44,5 +44,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepawka-hub&layout=compact)](https://github.com/Stepawka)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepawka-hub)](https://github.com/Stepawka)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Stepawak&theme=aura-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=240)](https://git.io/streak-stats)
   
 <br/>  
