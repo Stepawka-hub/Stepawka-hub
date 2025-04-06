@@ -37,7 +37,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepawka-hub&layout=compact&hide=python,сplusplus,cython,c,jupyternotebook)](https://github.com/Stepawka)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepawka-hub&layout=compact&hide=python,c%2B%2B,cython,c,jupyter%20notebook)](https://github.com/Stepawka)
 
 </div>
 
