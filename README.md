@@ -41,8 +41,8 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepawka&layout=compact)](https://github.com/Stepawka/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepawka&layout=compact)](https://github.com/Stepawka)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aStepawka)](https://github.com/Stepawka/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aStepawka)](https://github.com/Stepawka)
   
 <br/>  
