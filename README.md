@@ -3,7 +3,6 @@
 </div>
 
 <br/>
-<br/>
 
 ## Мой стек разработки:
 
@@ -19,8 +18,6 @@
 </div>
 
 <br/>
-<br/>
-<br/>
 
 ## Связь со мной:
 <div align="center">
@@ -34,7 +31,7 @@
   
 <br/>  
 
-## Github Stats  
+## Github статистика:
 
 <br/>  
 
@@ -42,5 +39,4 @@
 <img src="https://komarev.com/ghpvc/?username=Stepawka&&style=flat&color=red" align="center" />
 </div>  
   
-
 <br/>  
