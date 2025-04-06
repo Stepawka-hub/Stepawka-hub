@@ -37,6 +37,12 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Stepawka&&style=flat&color=red" align="center" />
-</div>  
+</div>
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepawka&layout=compact)](https://github.com/Stepawka/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aStepawka)](https://github.com/Stepawka/github-readme-stats)
   
 <br/>  
