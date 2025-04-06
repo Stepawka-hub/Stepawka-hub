@@ -45,6 +45,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepawka-hub)](https://github.com/Stepawka)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Stepawak&theme=aura-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=240)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Stepawka-Hub&theme=aura-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=240)](https://git.io/streak-stats)
   
 <br/>  
