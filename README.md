@@ -35,8 +35,10 @@
 
 <br/>
 
-<div align='center'>
+<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepawka-hub&layout=compact&show=Typescript,Javascript,HTML,CSS)](https://github.com/Stepawka)
+
 </div>
 
 <div align='center'>
