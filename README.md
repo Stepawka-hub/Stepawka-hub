@@ -37,7 +37,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Stepawka&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Stepawka&&style=flat&color=red" align="center" />
 </div>  
   
 
