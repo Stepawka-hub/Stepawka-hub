@@ -35,7 +35,9 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepawka-hub&layout=compact&include_language=Typescript,Javascript,HTML,CSS)](https://github.com/Stepawka)
+<div align='center'>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepawka-hub&layout=compact&show=Typescript,Javascript,HTML,CSS)](https://github.com/Stepawka)
+</div>
 
 <div align='center'>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Stepawka-Hub&theme=aura-dark&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=240" alt="GitHub Streak" /></a>
