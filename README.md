@@ -2,7 +2,9 @@
   <h1>Привет, меня зовут Степашка!<br/>Я веб-разработчик 💻</h1>
 </div>
 
-  
+<br/>
+<br/>
+
 ## Мой стек разработки:
 
 <div align="center">  
@@ -16,7 +18,9 @@
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 </div>
 
-<br/>  
+<br/>
+<br/>
+<br/>
 
 ## Связь со мной:
 <div align="center">
