@@ -45,7 +45,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepawka-hub&layout=compact&hide=python,c%2B%2B,cython,c,jupyter%20notebook&card_width=600&card_height=240)](https://github.com/Stepawka)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepawka-hub&layout=compact&hide=python,c%2B%2B,cython,c,jupyter%20notebook&card_width=600&card_height=240&border_radius=16&custom_title=test)](https://github.com/Stepawka)
 
 </div>
 
