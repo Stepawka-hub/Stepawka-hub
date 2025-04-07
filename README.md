@@ -45,7 +45,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepawka-hub&layout=compact&hide=python,c%2B%2B,cython,c,jupyter%20notebook&card_width=600&card_height=240&border_radius=16&bg_color=0C3E8A00&custom_title=Часто%20используемые%20языки)](https://github.com/Stepawka)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepawka-hub&layout=compact&hide=python,c%2B%2B,cython,c,jupyter%20notebook&card_width=600&card_height=240&border_radius=16&bg_color=0C3E8A&custom_title=Часто%20используемые%20языки)](https://github.com/Stepawka)
 
 </div>
 
