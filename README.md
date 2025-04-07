@@ -32,9 +32,6 @@
 <a href="https://t.me/stepawkalvov" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
-<a href="stepan-lvov-04@mail.ru" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>  
 </div>
   
 <br/>  
