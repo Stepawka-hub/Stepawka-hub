@@ -56,7 +56,9 @@
 <br/> 
 
 <div align='center'>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stepawka-hub&show_icons=true&theme=aura_dark)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stepawka-hub&show_icons=true&theme=aura_dark)
+  
 </div>
 
 <br/>
