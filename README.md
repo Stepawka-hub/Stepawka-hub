@@ -53,14 +53,6 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Stepawka-Hub&theme=aura-dark&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=240" alt="GitHub Streak" /></a>
 </div>
 
-<br/> 
-
-<div align='center'>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stepawka-hub&show_icons=true&theme=aura_dark)
-  
-</div>
-
 <br/>
 
 <div align="center">
