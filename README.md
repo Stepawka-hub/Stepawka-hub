@@ -6,6 +6,8 @@
 
 ## Мой стек разработки 🔧
 
+<br/>
+
 <div align="center">  
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
@@ -20,6 +22,9 @@
 <br/>
 
 ## Связь со мной 📞
+
+<br/>
+
 <div align="center">
 <a href="https://github.com/Stepawka-hub" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
