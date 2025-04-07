@@ -51,7 +51,7 @@
 
 <div align='center'>
    
-![Anurag's GitHub stats](https://github-readme-stats-theta-six-43.vercel.app/api?username=Stepawka-Hub&show_icons=true&bg_color=252334&title_color=ff7372&text_color=ffffff&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=360)
+![Anurag's GitHub stats](https://github-readme-stats-theta-six-43.vercel.app/api?username=Stepawka-Hub&show_icons=true&theme=aura_dark&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=360)
 
 </div>
 
