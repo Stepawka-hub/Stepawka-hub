@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1b6fac" alt="CSS3 logo" title="CSS3" height="25" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest logo" title="Jest" height="25" />
-<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress logo" title="Cypress" height="25" >/
+<img src="https://img.shields.io/badge/-jest-282C34?style=for-the-badge&logo=jest&logoColor=white" alt="Jest logo" title="Jest" height="25" />
+<img src="https://img.shields.io/badge/-cypress-282C34?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress logo" title="Cypress" height="25" >
 </div>
 
 <br/>
