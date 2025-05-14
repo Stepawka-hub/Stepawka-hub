@@ -45,7 +45,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-theta-six-43.vercel.app/api/top-langs/?username=Stepawka-hub&layout=compact&hide=python,c%2B%2B,cython,c,jupyter%20notebook,pawn&card_width=600&card_height=240&border_radius=16&bg_color=252334&title_color=ff7372&text_color=ffffff&hide_border=true&custom_title=Часто%20используемые%20языки&langs_count=5&exclude_repo=Minecraft-Server)](https://github.com/Stepawka)
+[![Top Langs](https://github-readme-stats-theta-six-43.vercel.app/api/top-langs/?username=Stepawka-hub&layout=compact&hide=python,c%2B%2B,cython,c,jupyter%20notebook,pawn&card_width=600&card_height=240&border_radius=16&bg_color=252334&title_color=ff7372&text_color=ffffff&hide_border=true&custom_title=Часто%20используемые%20языки&langs_count=5)](https://github.com/Stepawka)
 
 </div>
 
