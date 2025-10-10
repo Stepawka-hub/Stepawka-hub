@@ -1,22 +1,22 @@
 <div align="center">
-  <h1>Привет!<br/>Я веб-разработчик 💻</h1>
+  <h1>Frontend-разработчик 💻</h1>
 </div>
 
-<br/>
+  <br />
 
 ## Мой стек разработки 🔧
 
 <br/>
 
 <div align="center">  
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+<img src="https://img.shields.io/badge/Redux-282C34?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/TypeScript-282C34?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
+<img src="https://img.shields.io/badge/JavaScript-282C34?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-<img src="https://img.shields.io/badge/CSS-282C34?logo=css&logoColor=1b6fac" alt="CSS logo" title="CSS" height="25" />
+<img src="https://img.shields.io/badge/HTML5-282C34?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://img.shields.io/badge/CSS-282C34?style=for-the-badge&logo=css&logoColor=1b6fac" alt="CSS logo" title="CSS" height="25" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-jest-282C34?style=for-the-badge&logo=jest&logoColor=white" alt="Jest logo" title="Jest" height="25" />
 <img src="https://img.shields.io/badge/-cypress-282C34?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress logo" title="Cypress" height="25" >
